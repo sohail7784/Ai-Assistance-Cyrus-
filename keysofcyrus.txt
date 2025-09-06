@@ -1,0 +1,25 @@
+websocket url :
+wss://cyrus-agent-g9ja5889.livekit.cloud
+Api key 
+APIyS85x3tk4mQm
+api seceret
+eCRHmByem7W6zFhuryoG1FOOoVnOGwW27ENieOxepP5B
+environment varaibles 
+LIVEKIT_URL=wss://cyrus-agent-g9ja5889.livekit.cloud
+LIVEKIT_API_KEY=APIyS85x3tk4mQm
+LIVEKIT_API_SECRET=eCRHmByem7W6zFhuryoG1FOOoVnOGwW27ENieOxepP5Bs
+
+
+cyrus api key :AIzaSyBU9ilaM2vB3wGUduFVrg1APK8EjNzmCiA
+
+libraries used 
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-silero
+livekit-plugins-google
+livekit-plugins-noise-cancellation
+memoai
+duckduckgo-search
+langchain_community
+requests
+python-dotnev
