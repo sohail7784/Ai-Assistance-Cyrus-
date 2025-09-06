@@ -1,0 +1,9 @@
+Thsee are the main API keys should be useful in the code
+LIVEKIT_URL="here paste the url of the livekit server where you have created an agent in live kit server"
+LIVEKIT_API_KEY="here livekit server api key"
+LIVEKIT_API_SECRET="paste the live kit server api secret key"
+
+google_api_key="here paste the google Api key "
+
+
+
